@@ -1,16 +1,23 @@
-# andresfluttertest
+# Wersus TSP App
 
-A new Flutter project.
+Este proyecto es una aplicación Flutter que muestra una pantalla de carga con logos, una advertencia y una pantalla final. La app incluye transiciones entre las pantallas y una navegación simple.
 
-## Getting Started
+## Requisitos
 
-This project is a starting point for a Flutter application.
+Para poder ejecutar este proyecto, necesitas tener instalado lo siguiente:
 
-A few resources to get you started if this is your first Flutter project:
+- [Flutter ](https://flutter.dev/docs/get-started/install)
+- [Dart ](https://dart.dev/get-dart)
+- Un emulador o un dispositivo físico para correr la aplicación.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Instalación
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Sigue estos pasos para instalar y ejecutar el proyecto en tu máquina local:
+
+### Clonar el repositorio
+
+Clona este repositorio en tu máquina local con el siguiente comando:
+
+
+git clone https://github.com/Andrezgrondona/TSP-Flutter.git
+
